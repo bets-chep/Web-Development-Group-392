@@ -18,4 +18,4 @@ This portfolio showcases modern UI design elements, including smooth scrolling, 
 ## 📌 Setup & Deployment
 1. Clone the repository:  
    ```sh
-   git clone [YourRepoLink]
+   git clone [https://github.com/bets-chep/Web-Development-Group-392.git]
